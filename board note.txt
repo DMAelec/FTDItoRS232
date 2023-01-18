@@ -1,0 +1,15 @@
+FTDItoRS232 MANUFACTURING NOTES
+
+Layers: 2
+
+Dimensions: 45*20
+
+PCB Thickness: 1.2mm
+
+PCB Soldermask: Green
+
+Silkscreen: White
+
+Surface Finish: HASL
+
+Copper Weight: 1oz
